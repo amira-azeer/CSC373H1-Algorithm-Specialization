@@ -40,5 +40,5 @@ function operation(n) {
   return mincut;
 }
 
-console.log(operation(100));
+console.log(operation(200));
 
